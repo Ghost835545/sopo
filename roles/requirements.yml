@@ -1,4 +1,4 @@
 #- src: git@github.com:kost2191/docker-role.git
-- src: https://github.com/Ghost835545/docker-role.git
+- src: https://github.com/Ghost835545/template-role.git
   scm: git
   version: master
